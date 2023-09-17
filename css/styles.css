@@ -1,0 +1,19 @@
+body{
+    background-image:url('https://picsum.photos/seed/picsum/1920/1080');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.login-container{
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.label{
+    color: white;
+}
+
+.button-whithout-styles{
+    border: none;
+    background-color: transparent;
+}
